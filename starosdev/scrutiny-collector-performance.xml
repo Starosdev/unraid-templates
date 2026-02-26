@@ -10,7 +10,7 @@
   </Branch>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
-  <Support>https://github.com/Starosdev/scrutiny/issues</Support>
+  <Support>https://forums.unraid.net/topic/197444-support-starosdev-scrutiny-hard-drive-smart-monitoring/</Support>
   <Project>https://github.com/Starosdev/scrutiny</Project>
   <Overview>Scrutiny Performance Benchmark Collector (Hub/Spoke mode). Runs fio benchmarks on drives and tracks throughput, IOPS, and latency over time. Requires a running Scrutiny web server instance. Use the omnibus template instead if you want an all-in-one deployment. You must add each drive as a Device in the container settings. Alternatively, toggle Privileged mode to ON in the Unraid Docker UI to grant access to all drives automatically (less secure).</Overview>
   <Category>Tools: Productivity:</Category>

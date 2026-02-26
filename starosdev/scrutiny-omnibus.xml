@@ -14,7 +14,7 @@
   </Branch>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
-  <Support>https://github.com/Starosdev/scrutiny/issues</Support>
+  <Support>https://forums.unraid.net/topic/197444-support-starosdev-scrutiny-hard-drive-smart-monitoring/</Support>
   <Project>https://github.com/Starosdev/scrutiny</Project>
   <Overview>Hard Drive S.M.A.R.T Monitoring, Historical Trends and Real World Failure Thresholds. Scrutiny is a hard drive health dashboard and monitoring solution, merging manufacturer-provided S.M.A.R.T metrics with real-world failure rates from Backblaze. Includes web dashboard, metrics collector, and InfluxDB in a single container. You must add each drive as a Device in the container settings. Alternatively, toggle Privileged mode to ON in the Unraid Docker UI to grant access to all drives automatically (less secure).</Overview>
   <Category>Tools: Productivity:</Category>

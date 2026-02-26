@@ -10,7 +10,7 @@
   </Branch>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
-  <Support>https://github.com/Starosdev/scrutiny/issues</Support>
+  <Support>https://forums.unraid.net/topic/197444-support-starosdev-scrutiny-hard-drive-smart-monitoring/</Support>
   <Project>https://github.com/Starosdev/scrutiny</Project>
   <Overview>Scrutiny ZFS Pool Collector (Hub/Spoke mode). Monitors ZFS pool health and sends data to the Scrutiny web server. Requires a running Scrutiny web server instance. Only available for amd64 (x86_64) systems.</Overview>
   <Category>Tools: Productivity:</Category>

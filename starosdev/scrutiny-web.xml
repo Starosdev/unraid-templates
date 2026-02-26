@@ -10,7 +10,7 @@
   </Branch>
   <Network>bridge</Network>
   <Privileged>false</Privileged>
-  <Support>https://github.com/Starosdev/scrutiny/issues</Support>
+  <Support>https://forums.unraid.net/topic/197444-support-starosdev-scrutiny-hard-drive-smart-monitoring/</Support>
   <Project>https://github.com/Starosdev/scrutiny</Project>
   <Overview>Scrutiny Web Server (Hub/Spoke mode). Provides the web dashboard and API for S.M.A.R.T monitoring. Requires a separate InfluxDB instance and one or more Scrutiny collector containers. Use the omnibus template instead if you want an all-in-one deployment.</Overview>
   <Category>Tools: Productivity:</Category>
